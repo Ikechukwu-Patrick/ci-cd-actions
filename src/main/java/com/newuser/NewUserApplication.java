@@ -8,11 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 @RestController
 public class NewUserApplication {
-    @GetMapping("/welcome")
-    public String helloWorld() {
-
-        return "Hello, New User!";
-    }
     public static void main(String[] args) {
         SpringApplication.run(NewUserApplication.class, args);
     }

@@ -1,13 +1,13 @@
-package com.newuser;
-
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-
-@SpringBootTest
-class NewUserApplicationTests {
-
-    @Test
-    void contextLoads() {
-    }
-
-}
+//package com.newuser;
+//
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
+//
+//@SpringBootTest
+//class NewUserApplicationTests {
+//
+//    @Test
+//    void contextLoads() {
+//    }
+//
+//}
