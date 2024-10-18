@@ -4,6 +4,7 @@ COPY . .
 RUN mvn -B clean package -DskipTests
 
 FROM openjdk:17
-COPY --from=build target/*.jar new-image.jar
+COPY --from=build /app/target/*.jar new-image.jar
 EXPOSE 8087
-ENTRYPOINT ["java", "-jar", "new-image.jar"]
+
+ENTRYPOINT ["java", "-jar", "-Dserver.port=8087", "new-image.jar"]
