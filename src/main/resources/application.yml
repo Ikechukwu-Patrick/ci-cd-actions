@@ -1,0 +1,13 @@
+spring:
+  docker:
+    compose:
+      lifecycle:
+        readiness:
+          timeout: 2m
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health
+
