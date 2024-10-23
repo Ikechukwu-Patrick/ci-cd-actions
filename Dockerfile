@@ -1,22 +1,14 @@
-FROM maven:3.8.7 as build
+FROM maven:3.8.7 AS build
 WORKDIR /app
 COPY . .
-RUN mvn -B clean package -DskipTests
+RUN mvn -B clean package -Dmaven.test.skip=true
+RUN ls -lh /app/target
 
-FROM openjdk:17
-COPY --from=build /app/target/*.jar new-image.jar
+FROM openjdk:17-slim
+RUN apt-get update && apt-get install -y curl && apt-get clean && rm -rf /var/lib/apt/lists/*
+
+COPY --from=build /app/target/*.jar /app/new-image.jar
+
 EXPOSE 8087
 
-ENTRYPOINT ["java", "-jar", "-Dserver.port=8087", "new-image.jar"]
-
-
-#FROM maven:3.8.7 as build
-#COPY . .
-#RUN mvn -B clean package -DskipTests
-#
-#FROM openjdk:17
-#COPY --from=build target/*.jar cloud.jar
-#EXPOSE 8080
-#
-## Removed the problematic backtick
-#ENTRYPOINT ["java", "-jar", "-Dserver.port=8080", "cloud.jar"]
+ENTRYPOINT ["java", "-jar", "/app/new-image.jar"]

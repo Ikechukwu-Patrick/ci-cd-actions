@@ -11,9 +11,9 @@ services:
       - postgres_data:/var/lib/postgresql/data
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U postgres"]
-      interval: 20s
-      timeout: 5s
-      retries: 4
+      interval: 30s
+      timeout: 10s
+      retries: 8
 
   app:
     image: ike20743/new-image:latest
@@ -21,24 +21,31 @@ services:
       SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/orders
       SPRING_DATASOURCE_USERNAME: postgres
       SPRING_DATASOURCE_PASSWORD: 111555pat@gmail
-      MANAGEMENT_ENDPOINTS_WEB_EXPOSURE_INCLUDE: health,info
-    ports:
-      - "8087:8080"
+      MANAGEMENT_ENDPOINTS_WEB_EXPOSURE_INCLUDE: health,info,prometheus
     depends_on:
-      postgres:
-        condition: service_healthy
+      - postgres
+    ports:
+      - 8088:8087
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8087/actuator/health"]
-      interval: 30s
+      test: [ "CMD", "curl", "-f", "http://app:8087/actuator/health" ]
+      interval: 1m30s
       timeout: 10s
       retries: 3
-      start_period: 40s
+    restart: always
+    deploy:
+      resources:
+        limits:
+          memory: 128M  # Set memory limit for the app service
+    init: true
+
+  prometheus:
+    image: prom/prometheus
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+    ports:
+      - "9091:9090"
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
 
 volumes:
   postgres_data:
-
-
-
-
-
-
