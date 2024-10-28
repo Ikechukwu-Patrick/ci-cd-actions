@@ -21294,3 +21294,2210 @@ EOF
 [Mon Oct 28 16:38:38 WAT 2024] Memory usage is under control (127 MB).
 [Mon Oct 28 16:38:38 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
 [Mon Oct 28 16:38:38 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:40 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:40 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:40 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:40 WAT 2024] Memory usage (127 MB) exceeded threshold (123 MB). Scaling service...
+[Mon Oct 28 16:38:40 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:40 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:40 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:41 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:41 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:41 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:41 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:41 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:42 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:42 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:42 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:42 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:42 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:42 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:42 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:42 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:42 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:42 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:43 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:38:43 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:43 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:38:43 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:43 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:43 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:43 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:43 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:46 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:46 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:46 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:46 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:46 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:46 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:46 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:46 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:46 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:46 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:52 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:53 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:53 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:53 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:53 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:53 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:38:59 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:38:59 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:00 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:00 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:00 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:00 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:00 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:06 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:06 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:06 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:06 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:06 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:07 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:07 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:07 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:07 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:09 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:09 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:08 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:10 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:10 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:10 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:10 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:10 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:10 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:12 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:12 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:13 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:14 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:22 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:20 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:22 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:22 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:22 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:22 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:23 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:23 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:22 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:24 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:23 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:25 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:25 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:25 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:25 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:25 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:26 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:26 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:28 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:28 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:28 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:28 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:28 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:28 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:30 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:31 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:31 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:31 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:31 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:31 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:31 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:31 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:31 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:32 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:32 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:32 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:33 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:33 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:34 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:34 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:34 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:34 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:35 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:35 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:35 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:36 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:36 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:36 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:36 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:37 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:37 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:37 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:37 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:37 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:37 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:37 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:38 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:39 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:39 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:39 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:39 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:39 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:39 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:40 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:40 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:40 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:40 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:40 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:40 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:40 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:40 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:40 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:41 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:42 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:42 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:42 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:42 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:42 WAT 2024] Memory usage (127 MB) exceeded threshold (123 MB). Scaling service...
+[Mon Oct 28 16:39:42 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:42 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:42 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:42 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:43 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:43 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:42 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:43 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:43 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:43 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:44 WAT 2024] Memory usage (127 MB) exceeded threshold (123 MB). Scaling service...
+[Mon Oct 28 16:39:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:46 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:46 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:46 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:46 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:46 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:46 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:46 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:46 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:46 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:47 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:39:47 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:39:48 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:48 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:48 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:48 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:48 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:48 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:48 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:48 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:48 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:48 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:48 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:48 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:48 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:48 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:49 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:49 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:49 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:49 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:49 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:49 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:49 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:49 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:50 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:51 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:51 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:51 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:51 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:51 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:51 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:51 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:51 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:51 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:51 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:51 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:51 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:51 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:51 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:51 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:51 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:51 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:51 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:51 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:51 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:51 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:51 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:51 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:51 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:51 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:52 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:52 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:52 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:52 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:54 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:54 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:55 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:55 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:55 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:55 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:55 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:55 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:56 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:56 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:56 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:56 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:57 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:57 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:58 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:58 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:58 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:58 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:39:59 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:39:59 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:04 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:04 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:04 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:06 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:06 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:07 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:07 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:07 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:07 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:08 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:08 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:08 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:08 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:09 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:09 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:09 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:09 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:10 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:10 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:10 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:10 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:10 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:10 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:12 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:12 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:14 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:14 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:14 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:14 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:14 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:14 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:14 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:14 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:15 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:15 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:15 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:15 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:17 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:17 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:17 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:17 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:18 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:18 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:18 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:18 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:23 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:23 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:23 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:23 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:23 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:23 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:23 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:24 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:23 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:24 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:24 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:24 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:24 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:24 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:24 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:24 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:24 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:24 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:24 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:24 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:25 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:25 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:25 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:25 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:25 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:25 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:25 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:25 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:25 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:25 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:26 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:26 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:26 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:26 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:28 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:28 WAT 2024] Memory usage (127 MB) exceeded threshold (123 MB). Scaling service...
+[Mon Oct 28 16:40:28 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:28 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:28 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:28 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:28 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:28 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:28 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:28 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage (127 MB) exceeded threshold (123 MB). Scaling service...
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:29 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:29 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:30 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:30 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:30 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:30 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:31 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:31 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:32 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:32 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:32 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:32 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:32 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:32 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:33 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:33 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:33 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:33 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:35 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:35 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:35 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:35 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:35 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:35 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:36 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:36 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:36 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:36 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:36 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:36 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:37 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:37 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:38 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:38 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:38 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:38 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:38 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:38 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:38 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:38 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:38 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:38 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:40 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:40 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:40 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:40 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:40 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:40 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:41 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:41 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:41 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:41 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:41 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:41 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:42 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:42 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:43 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:43 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:43 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:43 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:43 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:43 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:43 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:43 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:46 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:46 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:46 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:46 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:46 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:46 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:46 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:46 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:49 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:49 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:49 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:49 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:53 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:53 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:53 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:53 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:56 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:56 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:56 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:56 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:56 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:56 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:57 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:57 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:57 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:57 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:57 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:57 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:57 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:57 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:57 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:57 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:57 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:57 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:57 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:57 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:57 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:57 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:58 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:58 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:58 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:58 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:58 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:58 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:58 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:58 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:58 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:58 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:40:59 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:40:59 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:03 WAT 2024] Memory usage (127 MB) exceeded threshold (123 MB). Scaling service...
+[Mon Oct 28 16:41:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:03 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:41:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:04 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:04 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:04 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:04 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:04 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:04 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:04 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:04 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:04 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:05 WAT 2024] Memory usage (127 MB) exceeded threshold (123 MB). Scaling service...
+[Mon Oct 28 16:41:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:05 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:41:07 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:07 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:07 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:07 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:07 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:07 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:07 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:07 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:07 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:07 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:10 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:10 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:12 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:12 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:12 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:13 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:13 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:13 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:13 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:13 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:14 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:14 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:14 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:14 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:14 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:14 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:14 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:16 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:16 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:16 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:16 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:16 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:16 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:16 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:16 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:16 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:16 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:16 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:16 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:17 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:17 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:17 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:17 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:17 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:17 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:17 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:17 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:17 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:17 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:18 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:18 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:18 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:18 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:21 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:21 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:21 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:21 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:21 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:21 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:21 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:21 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:21 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:21 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:21 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:21 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:22 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:22 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:22 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:22 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:25 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:25 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:25 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:25 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:41:48 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:41:52 WAT 2024] Memory usage is under control (127 MB).
+timeout waiting for stats
+timeout waiting for stats
+[Mon Oct 28 16:42:06 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:06 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:20 WAT 2024] Invalid memory usage: . Skipping this check.
+[Mon Oct 28 16:42:21 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:21 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:21 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:21 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:25 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:25 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:28 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:28 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:28 WAT 2024] Memory usage is under control (127 MB).
+timeout waiting for stats
+[Mon Oct 28 16:42:31 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:31 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:32 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:32 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:32 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:31 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:32 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:32 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:33 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:33 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:33 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:34 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:34 WAT 2024] Invalid memory usage: . Skipping this check.
+[Mon Oct 28 16:42:34 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:34 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:35 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:35 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:35 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:35 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:35 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:35 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:36 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:36 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:36 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:36 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:36 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:36 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:36 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:36 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:36 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:35 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:40 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:46 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:46 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:46 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:48 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:48 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:48 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:49 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:50 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:50 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:50 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:51 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:50 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:52 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:53 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:53 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:53 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:54 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:54 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:54 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:55 WAT 2024] Memory usage (127 MB) exceeded threshold (123 MB). Scaling service...
+[Mon Oct 28 16:42:55 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:56 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:56 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:56 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:56 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:56 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:56 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:57 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:56 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:57 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:57 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:57 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:57 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:56 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:56 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:57 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:57 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:57 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:57 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:57 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:57 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:58 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:58 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:58 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:58 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:58 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:58 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:42:59 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:59 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:42:59 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:00 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:00 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:00 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:00 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:00 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:00 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:00 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:00 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:00 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:00 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:00 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:04 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:04 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:04 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:04 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:04 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:05 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:43:06 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:06 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:06 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:06 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:06 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:06 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:06 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:06 WAT 2024] Memory usage (127 MB) exceeded threshold (123 MB). Scaling service...
+[Mon Oct 28 16:43:06 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:06 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:06 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:07 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:07 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:07 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:07 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:07 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:08 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:08 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:08 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:08 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:08 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:09 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:09 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:09 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:09 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:09 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:09 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:10 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:43:10 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:10 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:10 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:10 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:12 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:12 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:12 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:12 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:12 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:12 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:13 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:13 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:13 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:13 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:13 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:13 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:13 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:13 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:14 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:14 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:14 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:14 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:14 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:14 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:17 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:17 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:17 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:17 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:17 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:17 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:18 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:18 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:19 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:19 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:20 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:20 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:21 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:21 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:21 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:21 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:21 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:21 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:23 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:23 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:23 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:23 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:23 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:23 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:24 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:24 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:30 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:30 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:30 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:30 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:30 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:30 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:30 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:30 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:30 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:30 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:30 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:30 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:30 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:30 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:30 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:30 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:30 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:30 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:30 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:31 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:31 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:31 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:31 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:31 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:31 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:31 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:33 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:33 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:33 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:33 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:33 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:33 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:33 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:33 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:34 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:34 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:34 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:34 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:34 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:34 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:34 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:34 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:34 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:34 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:34 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:34 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:34 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:34 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:35 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:35 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:35 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:35 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:35 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:35 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:35 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:35 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:35 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:35 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:36 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:36 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:36 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:36 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:36 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:36 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:37 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:37 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:37 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:37 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:37 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:37 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:37 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:37 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:37 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:37 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:37 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:37 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:37 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:37 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:38 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:38 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:38 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:38 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:38 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:38 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:38 WAT 2024] Memory usage (127 MB) exceeded threshold (123 MB). Scaling service...
+[Mon Oct 28 16:43:38 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:38 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:38 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:38 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:38 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:38 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:43:39 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:39 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:39 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:39 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:39 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:39 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:39 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:39 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:39 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:39 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:40 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:40 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:40 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:40 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:40 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:40 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:40 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:40 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:41 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:41 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:41 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:41 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:42 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:42 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:42 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:42 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:42 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:42 WAT 2024] Memory usage (127 MB) exceeded threshold (123 MB). Scaling service...
+[Mon Oct 28 16:43:42 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:42 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:42 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:43:43 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:43 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:43 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:43 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:43 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:43 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:44 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:46 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:46 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:49 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:49 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:49 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:49 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:49 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:49 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:50 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:50 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:51 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:51 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:52 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:52 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:53 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:53 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:53 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:53 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:53 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:53 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:55 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:55 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:55 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:55 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:55 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:55 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:56 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:56 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:59 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:59 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:59 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:59 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:43:59 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:43:59 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:04 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:04 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:04 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:06 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:08 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:08 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:08 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:08 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:08 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:08 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:08 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:08 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:08 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:08 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:09 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:09 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:09 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:09 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:09 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:09 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:09 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:09 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:09 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:09 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:09 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:09 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:10 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:10 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:10 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:10 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:10 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:10 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:10 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:10 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:12 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:12 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:12 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:12 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:12 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:12 WAT 2024] Memory usage (127 MB) exceeded threshold (123 MB). Scaling service...
+[Mon Oct 28 16:44:12 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:12 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:12 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:44:13 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:13 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:13 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:13 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:13 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:13 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:13 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:13 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:13 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:13 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:13 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:13 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:14 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:14 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:14 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:14 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:14 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:14 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:15 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:15 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:15 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:15 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:15 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:15 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:17 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:17 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:17 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:17 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:17 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:17 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:17 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:17 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:17 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:18 WAT 2024] Memory usage (127 MB) exceeded threshold (123 MB). Scaling service...
+[Mon Oct 28 16:44:18 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:18 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:18 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:18 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:18 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:18 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:18 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:18 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:18 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:18 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:18 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:18 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:18 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:18 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:18 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:18 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:18 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:44:19 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:20 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:20 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:20 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:20 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:20 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:20 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:20 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:20 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:20 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:20 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:20 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:20 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:20 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:20 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:20 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:20 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:20 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:20 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:20 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:20 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:20 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:20 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:20 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:21 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:21 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:23 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:23 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:23 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:23 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:23 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:23 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:23 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:23 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:24 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:24 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:26 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:26 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:27 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:27 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:28 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:28 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:28 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:28 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:28 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:28 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:29 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:29 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:32 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:32 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:32 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:32 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:32 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:32 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:37 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:37 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:37 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:37 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:37 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:37 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:37 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:37 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:37 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:37 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:38 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:38 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:38 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:38 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:38 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:38 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:38 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:38 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:38 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:38 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:38 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:38 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:39 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:39 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:39 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:39 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:39 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:39 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:39 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:39 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:41 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:41 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:41 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:41 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:42 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:42 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:42 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:42 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:42 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:42 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:44 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:45 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:45 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:46 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:46 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:46 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:46 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:47 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:47 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:47 WAT 2024] Memory usage is under control (127 MB).
+timeout waiting for stats
+[Mon Oct 28 16:44:57 WAT 2024] Invalid memory usage: . Skipping this check.
+[Mon Oct 28 16:44:57 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:57 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:57 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:58 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:58 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:59 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:59 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:59 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:59 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:44:59 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:44:59 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:00 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:00 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:00 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:00 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:00 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:00 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:00 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:00 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:00 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:00 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:00 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:00 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:00 WAT 2024] Memory usage (127 MB) exceeded threshold (123 MB). Scaling service...
+[Mon Oct 28 16:45:00 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:00 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:00 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:00 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:00 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:00 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:00 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:00 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:00 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:01 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:01 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:02 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:45:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:02 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:02 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:02 WAT 2024] Memory usage (127 MB) exceeded threshold (123 MB). Scaling service...
+[Mon Oct 28 16:45:03 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:45:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:03 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:03 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:05 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:05 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:09 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:09 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:09 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:09 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:09 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:09 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:09 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:09 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:09 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:09 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:10 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:10 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:10 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:10 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:10 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:10 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:10 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:10 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:10 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:10 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:11 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:11 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:13 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:13 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:14 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:14 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:15 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:15 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:15 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:15 WAT 2024] Current memory usage: 127 MB. Current replicas: 5
+[Mon Oct 28 16:45:15 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:15 WAT 2024] Memory usage is under control (127 MB).
+[Mon Oct 28 16:45:18 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:19 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:19 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:19 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:19 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:19 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:19 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:19 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:19 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:19 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:19 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:19 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:19 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:19 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:19 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:19 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:19 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:19 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:20 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:20 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:20 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:20 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:20 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:20 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:20 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:20 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:22 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:22 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:22 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:22 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:22 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:22 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:22 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:22 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:22 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:22 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:22 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:22 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:22 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:22 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:29 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:29 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:30 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:30 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:32 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:32 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:32 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:32 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:33 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:33 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:33 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:33 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:33 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:33 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:33 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:33 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:33 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:33 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:33 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:33 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:34 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:34 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:34 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:34 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:34 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:34 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:35 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:35 WAT 2024] Memory usage (125 MB) exceeded threshold (123 MB). Scaling service...
+[Mon Oct 28 16:45:35 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:35 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:35 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:35 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:35 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:35 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:35 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:35 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:35 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:35 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:35 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:35 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:35 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:35 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:35 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:35 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:35 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:35 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:35 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:36 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:36 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:36 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:36 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:36 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:45:36 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:36 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:36 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:37 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:37 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:37 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:37 WAT 2024] Memory usage (125 MB) exceeded threshold (123 MB). Scaling service...
+[Mon Oct 28 16:45:37 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:45:37 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:37 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:37 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:37 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:37 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:37 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:37 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:37 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:37 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:37 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:37 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:37 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:37 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:37 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:37 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:37 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:38 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:38 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:38 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:38 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:38 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:38 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:40 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:40 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:40 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:40 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:40 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:40 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:40 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:40 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:40 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:40 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:40 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:40 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:40 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:40 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:41 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:41 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:41 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:41 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:41 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:41 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:41 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:40 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:41 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:41 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:41 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:41 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:41 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:41 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:41 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:41 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:41 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:41 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:41 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:41 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:41 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:41 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:41 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:41 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:41 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:41 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:41 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:41 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:41 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:41 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:44 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:44 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:44 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:44 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:44 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:44 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:44 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:44 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:44 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:44 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:44 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:44 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:44 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:44 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:44 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:44 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:44 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:44 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:44 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:44 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:44 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:44 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:44 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:44 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:44 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:44 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:44 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:44 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:44 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:44 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:47 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:47 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:48 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:48 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:48 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:48 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:48 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:48 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:48 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:48 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:51 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:51 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:51 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:51 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:51 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:51 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:51 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:51 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:52 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:52 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:52 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:52 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:52 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:52 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:52 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:52 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:53 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:53 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:53 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:53 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:53 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:53 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:53 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:53 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:53 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:53 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:55 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:55 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:55 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:55 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:55 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:55 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:55 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:55 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:55 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:55 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:55 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:55 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:45:55 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:45:55 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:03 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:03 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:03 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:03 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:04 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:04 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:10 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:11 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:12 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:12 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:13 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:13 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:14 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:14 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:14 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:14 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:15 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:15 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:15 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:15 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:14 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:15 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:15 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:16 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:16 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:17 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:19 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:19 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:19 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:20 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:20 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:20 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:20 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:20 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:20 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:20 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:20 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:20 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:21 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:21 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:21 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:20 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:21 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:21 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:21 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:21 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:21 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:21 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:21 WAT 2024] Memory usage (125 MB) exceeded threshold (123 MB). Scaling service...
+[Mon Oct 28 16:46:21 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:21 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:21 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:21 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:21 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:21 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:21 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:21 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:21 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:22 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:21 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:22 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:22 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:22 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:22 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:22 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:22 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:22 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:22 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:22 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:22 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:22 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:22 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:22 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:22 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:22 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:22 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:22 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:22 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:22 WAT 2024] Memory usage (125 MB) exceeded threshold (123 MB). Scaling service...
+[Mon Oct 28 16:46:22 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:23 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:23 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:23 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:22 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:23 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:23 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:23 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:23 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:23 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:23 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:23 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:23 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:23 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:23 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:23 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:24 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:24 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:24 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:24 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:24 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:46:24 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:24 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:24 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:24 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:24 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:24 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:24 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:24 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:24 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:24 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:24 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:24 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:24 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:24 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:24 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:24 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:24 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:24 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:24 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:24 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:25 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:25 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:25 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:25 WAT 2024] Max replicas reached (5). Cannot scale further.
+[Mon Oct 28 16:46:25 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:25 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:25 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:25 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:25 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:25 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:25 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:25 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:25 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:25 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:25 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:25 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:25 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:25 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:25 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:25 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:25 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:25 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:25 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:25 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:25 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:25 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:25 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:25 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:25 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:25 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:25 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:25 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:26 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:26 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:26 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:26 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:26 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:26 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:26 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:26 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:26 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:26 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:26 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:26 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:27 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:27 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:27 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:27 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:27 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:27 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:28 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:28 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:28 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:28 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:28 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:28 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:28 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:28 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:28 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:28 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:28 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:28 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:28 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:28 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:28 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:28 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:29 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:29 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:29 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:29 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:29 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:29 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:29 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:29 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:29 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:29 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:29 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:29 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:29 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:29 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:29 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:29 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:29 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:29 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:29 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:29 WAT 2024] Current memory usage: 125 MB. Current replicas: 5
+[Mon Oct 28 16:46:29 WAT 2024] Memory usage is under control (125 MB).
+[Mon Oct 28 16:46:29 WAT 2024] Memory usage is under control (125 MB).
