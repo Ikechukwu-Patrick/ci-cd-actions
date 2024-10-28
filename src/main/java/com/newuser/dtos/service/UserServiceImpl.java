@@ -48,7 +48,7 @@ public class UserServiceImpl implements UserService {
         if(email == null || email.trim().isEmpty()) {
             throw new UserBaseException("Email cannot be null or empty");
         }
-        String emailRegex = "^[A-Za-z0-9+_.-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,6}$";
+        String emailRegex = "^[A-Za-z0-9+_.-]+@gmail\\.com$";
         Pattern pattern = Pattern.compile(emailRegex);
 
         if (!pattern.matcher(email).matches()) {
@@ -56,7 +56,7 @@ public class UserServiceImpl implements UserService {
         }
         boolean emailExists = userRepository.existsByEmail(email);
         if (emailExists) {
-            throw new EmailAlreadyExistException("Email " + email + "already exists");
+            throw new EmailAlreadyExistException("Email " + email + "already exists. Use another email to register");
 
         }
 

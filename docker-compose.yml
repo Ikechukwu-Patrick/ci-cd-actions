@@ -9,11 +9,8 @@ services:
       - "5435:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
-    healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U postgres"]
-      interval: 30s
-      timeout: 10s
-      retries: 8
+    networks:
+      - app-network
 
   app:
     image: ike20743/new-image:latest
@@ -25,18 +22,15 @@ services:
     depends_on:
       - postgres
     ports:
-      - 8088:8087
-    healthcheck:
-      test: [ "CMD", "curl", "-f", "http://app:8087/actuator/health" ]
-      interval: 1m30s
-      timeout: 10s
-      retries: 3
+      - "0:8087"  # Changed internal port to standard 8080
     restart: always
+    networks:
+      - app-network
     deploy:
       resources:
         limits:
-          memory: 128M  # Set memory limit for the app service
-    init: true
+          cpus: '1.0'  # Limit the app to 1 CPU core
+          memory: 128MB  # Limit the app to 256MB of memory
 
   prometheus:
     image: prom/prometheus
@@ -46,6 +40,22 @@ services:
       - "9091:9090"
     command:
       - '--config.file=/etc/prometheus/prometheus.yml'
+    networks:
+      - app-network
+
+# Uncomment this section if you want to add Grafana
+# grafana:
+#   image: grafana/grafana
+#   ports:
+#     - "3000:3000"
+#   depends_on:
+#     - prometheus
+#   networks:
+#     - app-network
 
 volumes:
   postgres_data:
+
+networks:  # Define your network here
+  app-network:
+    driver: bridge  # Optional: use the bridge driver for custom networking
