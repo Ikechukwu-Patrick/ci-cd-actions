@@ -15,7 +15,23 @@ cd "$(dirname "$0")" || exit 1
 scaling_in_progress=false
 
 get_memory_usage() {
-  docker stats --no-stream --format "{{.MemUsage}}" $(docker-compose ps -q $SERVICE_NAME) | awk -F '[ /]+' '{gsub(/[a-zA-Z]/, "", $1); print $1}' | tr -d '\n'
+  CONTAINER_ID=$(docker-compose ps -q $SERVICE_NAME)
+
+  # Check if the container ID was found
+  if [[ -z "$CONTAINER_ID" ]]; then
+    echo "[$(date)] Warning: No active container found for $SERVICE_NAME. Setting memory usage to 0."
+    echo 0
+    return
+  fi
+
+  # Try to retrieve memory usage, and handle errors if it fails
+  memory=$(docker stats --no-stream --format "{{.MemUsage}}" "$CONTAINER_ID" 2>/dev/null | awk -F '[ /]+' '{gsub(/[a-zA-Z]/, "", $1); print $1}' | tr -d '\n')
+  if [[ -z "$memory" ]]; then
+    echo "[$(date)] Error retrieving memory usage for container $CONTAINER_ID. Skipping this check."
+    echo 0
+  else
+    echo "$memory"
+  fi
 }
 
 get_current_scale() {
@@ -32,10 +48,10 @@ scale_service() {
 
   if [ "$current_scale" -lt "$MAX_REPLICAS" ]; then
     echo "[$(date)] Scaling service $SERVICE_NAME to $new_scale replicas"
-    if ! docker-compose up --scale "$SERVICE_NAME=$new_scale" -d; then
-      echo "[$(date)] Failed to scale service $SERVICE_NAME to $new_scale replicas"
-    else
+    if docker-compose up --scale "$SERVICE_NAME=$new_scale" -d; then
       scaling_in_progress=true
+    else
+      echo "[$(date)] Failed to scale service $SERVICE_NAME to $new_scale replicas"
     fi
   else
     echo "[$(date)] Max replicas reached ($MAX_REPLICAS). Cannot scale further."
@@ -50,8 +66,10 @@ scale_down_service() {
     echo "[$(date)] Scaling service $SERVICE_NAME down to $new_scale replicas"
     if docker-compose up --scale "$SERVICE_NAME=$new_scale" -d; then
       container_id=$(docker-compose ps -q $SERVICE_NAME | tail -n 1)
+
+      # Check if the container exists before attempting to remove it
       if container_exists "$container_id"; then
-        docker rm -f "$container_id"
+        docker rm -f "$container_id" || echo "[$(date)] Failed to remove container $container_id. It may have been removed already."
       else
         echo "[$(date)] Container $container_id does not exist, skipping removal."
       fi
