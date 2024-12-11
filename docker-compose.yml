@@ -21,16 +21,14 @@ services:
       MANAGEMENT_ENDPOINTS_WEB_EXPOSURE_INCLUDE: health,info,prometheus
     depends_on:
       - postgres
-    ports:
-      - "0:8087"  # Changed internal port to standard 8080
     restart: always
     networks:
       - app-network
     deploy:
       resources:
         limits:
-          cpus: '1.0'  # Limit the app to 1 CPU core
-          memory: 128MB  # Limit the app to 256MB of memory
+          cpus: '1.0'
+          memory: 128MB
 
   prometheus:
     image: prom/prometheus
@@ -43,19 +41,20 @@ services:
     networks:
       - app-network
 
-# Uncomment this section if you want to add Grafana
-# grafana:
-#   image: grafana/grafana
-#   ports:
-#     - "3000:3000"
-#   depends_on:
-#     - prometheus
-#   networks:
-#     - app-network
+  reverse-proxy:
+    image: nginx:latest
+    ports:
+      - "8080:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf
+    networks:
+      - app-network
+    restart: always
+    command: /bin/sh -c "sleep 5 && nginx -g 'daemon off;'"  # Delay for app readiness
 
 volumes:
   postgres_data:
 
-networks:  # Define your network here
+networks:
   app-network:
-    driver: bridge  # Optional: use the bridge driver for custom networking
+    driver: bridge

@@ -1,0 +1,16 @@
+---
+- hosts: localhost
+  gather_facts: false
+  tasks:
+    - name: Build Docker image
+      community.docker.docker_image:
+        source: build
+        name: new-image
+        tag: latest
+        build:
+          path: "/mnt/c/Users/DELL/Documents/newUser"
+
+    - name: Run Docker Compose
+      command: docker-compose up -d
+      args:
+        chdir: /mnt/c/Users/DELL/Documents/newUser

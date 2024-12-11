@@ -17,14 +17,12 @@ scaling_in_progress=false
 get_memory_usage() {
   CONTAINER_ID=$(docker-compose ps -q $SERVICE_NAME)
 
-  # Check if the container ID was found
   if [[ -z "$CONTAINER_ID" ]]; then
     echo "[$(date)] Warning: No active container found for $SERVICE_NAME. Setting memory usage to 0."
     echo 0
     return
   fi
 
-  # Try to retrieve memory usage, and handle errors if it fails
   memory=$(docker stats --no-stream --format "{{.MemUsage}}" "$CONTAINER_ID" 2>/dev/null | awk -F '[ /]+' '{gsub(/[a-zA-Z]/, "", $1); print $1}' | tr -d '\n')
   if [[ -z "$memory" ]]; then
     echo "[$(date)] Error retrieving memory usage for container $CONTAINER_ID. Skipping this check."
@@ -67,7 +65,6 @@ scale_down_service() {
     if docker-compose up --scale "$SERVICE_NAME=$new_scale" -d; then
       container_id=$(docker-compose ps -q $SERVICE_NAME | tail -n 1)
 
-      # Check if the container exists before attempting to remove it
       if container_exists "$container_id"; then
         docker rm -f "$container_id" || echo "[$(date)] Failed to remove container $container_id. It may have been removed already."
       else
@@ -109,8 +106,8 @@ while true; do
 
   echo "[$(date)] Current memory usage: $memory_usage MB. Current replicas: $current_scale"
 
-  if [ "$memory_usage" -ge "$SCALE_UP_THRESHOLD" ] && [ "$scaling_in_progress" = false ]; then
-    echo "[$(date)] Memory usage ($memory_usage MB) exceeded threshold ($SCALE_UP_THRESHOLD MB). Scaling service..."
+  if [ "$memory_usage" -ge "$MEMORY_LIMIT_MB" ] && [ "$scaling_in_progress" = false ]; then
+    echo "[$(date)] Memory limit ($MEMORY_LIMIT_MB MB) reached. Scaling service..."
     scale_service
 
   elif [ "$memory_usage" -lt "$SCALE_DOWN_THRESHOLD" ] && [ "$current_scale" -gt "$MIN_REPLICAS" ]; then
